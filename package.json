@@ -1,0 +1,28 @@
+{
+  "name": "formik-webinar",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "clay-react-json-view": "1.16.28",
+    "glamor": "2.20.40",
+    "palx": "1.0.3",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
